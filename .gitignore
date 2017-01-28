@@ -240,3 +240,4 @@ ModelManifest.xml
 
 # FAKE - F# Make
 .fake/
+/PowerShellScripts/PowerShell_2_One_Cmdlet_at_a_Time.pdf
